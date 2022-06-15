@@ -6,5 +6,5 @@ git add .
 
 git commit -m 'Auto commit code'
 
-git push -u origin master
+git push
 
